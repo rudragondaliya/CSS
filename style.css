@@ -1,0 +1,59 @@
+h1{
+    color: rgb(215, 53, 204);
+    text-align: center;
+}
+
+#p1{
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+    font-family: "Micro 5 Charted", sans-serif;
+    line-height: 2rem;
+    text-decoration: underline wavy;
+}
+
+#p2{
+    background-color: yellow;
+    color:slateblue;
+    text-align: justify;
+    line-height: 1.5rem;
+    text-transform: lowercase;
+    font-family:"Jacquarda Bastarda 9 Charted", serif;
+}
+
+#p3{
+    background-color: rgb(159, 192, 26);
+    color: brown;
+    text-align: left;
+    text-indent: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    line-height: 1.8rem;
+    text-decoration: underline dashed;
+    text-transform:uppercase;
+}
+
+#p4{
+    background-color: coral;
+    color:palegreen;
+    text-decoration: underline dotted;
+    text-transform: capitalize;
+    text-align: right;
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(33, 230, 33, 0.937);
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color:rgb(6, 118, 156);
+    border:2px solid black;
+    border-radius: 60px;
+}

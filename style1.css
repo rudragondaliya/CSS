@@ -1,0 +1,24 @@
+@font-face {
+    font-family: lobster;
+    src: url(./transfonter.org-20151008-121747/Lobster.ttf);
+}
+p{
+    font-family: 'lobster';
+    color: white;
+    letter-spacing: 3px;
+}
+#background{
+    background-image: url(https://media.istockphoto.com/id/1412036284/photo/dark-green-watercolor-emerald-green-color-art-background-with-space-for-design.webp?s=2048x2048&w=is&k=20&c=2Ejm5xxDWFld3eGn1J52V6Ajrab3uXU6E3zcV91doMs=),url(https://media.istockphoto.com/id/1018450682/photo/white-gray-geometric-wallpaper-background.jpg?s=2048x2048&w=is&k=20&c=1lIOxUggJKvVc3RXIOoRlhfJ8DEK7J9QO3pvnY7lb9k=);
+    height: 60vh;
+    width: 90vw;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-blend-mode:darken;
+    background-attachment: fixed;
+}
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,21,121,0.891281512605042) 35%, rgba(0,212,255,1) 100%);
+}
